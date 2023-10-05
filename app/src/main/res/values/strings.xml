@@ -3,4 +3,6 @@
     <string name="name">Iqbal</string>
     <string name="nim">20200140106</string>
     <string name="car">Porsche 911</string>
+    <string name="match_parent">Match Parent</string>
+    <string name="motor">Select your Motorcycle</string>
 </resources>
